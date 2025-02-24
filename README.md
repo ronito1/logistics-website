@@ -1,4 +1,9 @@
 ---
+layout: default
+title: Logistics Website
+---
+
+---
 
 ## 📦 Logistick - Flexible & Secure Logistics Solutions
 
