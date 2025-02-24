@@ -18,7 +18,7 @@ Logistick is a modern logistics and freight management website designed to offer
 ## 📸 Screenshots  
 | Home Page | Services Section |
 |-----------|-----------------|
-| ![Home Page](.assets/images/icons/image.png) | ![Services Section](.assets/images/thumbs/image.png) |
+| ![Home Page](assets/images/icons/image.png) | ![Services Section](assets/images/thumbs/image.png) |
 
 ## 🏗️ Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript (React.js)  
