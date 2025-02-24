@@ -1,10 +1,7 @@
-Here's a well-structured GitHub README for your logistics website in Markdown format:  
-
 ---
 
 ## 📦 Logistick - Flexible & Secure Logistics Solutions
 
-![Logistick](./path-to-your-image.png)  
 
 ### 🚀 Overview  
 Logistick is a modern logistics and freight management website designed to offer **fast, secure, and cost-effective delivery solutions** across various transportation modes, including **air, land, and sea**. With a seamless user interface and efficient backend, Logistick ensures smooth package handling from storage to final delivery.  
