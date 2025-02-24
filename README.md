@@ -53,11 +53,9 @@ npm start
 ### 📬 Contact & Contribution  
 Want to contribute? Feel free to submit a PR or open an issue!  
 
-📧 **Contact:** your-email@example.com  
-🌍 **Website:** [logistick.com](https://logistick.com)  
+📧 **Contact:** ronitpathak12345@gmail.com
+🌍 **Website:** [logistick.com](https://logistics-website-phi.vercel.app/)  
 
-🙌 **Made with ❤️ by [Your Name](https://github.com/yourusername)**  
+🙌 **Made with ❤️ by [Ronit]**
 
 ---
-
-Would you like any modifications or additional sections? 🚀
