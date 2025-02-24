@@ -25,30 +25,8 @@ Logistick is a modern logistics and freight management website designed to offer
 
 ### 🏗️ Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript (React.js)  
-- **Backend:** Node.js, Express.js  
-- **Database:** Firebase / MongoDB (as applicable)  
-- **Hosting:** Vercel / Netlify (if applicable)  
+- **Hosting:** Vercel 
 
----
-
-### 🏁 Getting Started  
-#### 1️⃣ Clone the repository  
-```sh
-git clone https://github.com/yourusername/logistick.git
-cd logistick
-```
-
-#### 2️⃣ Install dependencies  
-```sh
-npm install
-```
-
-#### 3️⃣ Start the development server  
-```sh
-npm start
-```
-
----
 
 ### 📬 Contact & Contribution  
 Want to contribute? Feel free to submit a PR or open an issue!  
